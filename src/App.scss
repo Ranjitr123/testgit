@@ -1,0 +1,36 @@
+.ant-form-item-required{
+
+    font-size: 20px !important;
+    display:inline-block !important;
+    color: blue !important;
+
+}
+.ant-form-item-required::after {
+    display: inline-block;
+    margin-inline-end: 4px;
+    color: #ff4d4f;
+    font-size: 14px;
+    font-family: SimSun,sans-serif;
+    line-height: 1;
+    content: "*";
+}
+table{
+    width: 100%!important;
+    margin-top: 50px;
+    border: 2px solid red;
+    text-align: center;
+}
+td{
+    border: 2px solid rgb(102, 0, 255) !important;
+}
+/* App.css */
+
+/* Default theme */
+
+
+  /* Dark theme */
+  .dark-theme {
+    background-color: rgb(0, 0, 0);
+    color: white;
+   
+  }

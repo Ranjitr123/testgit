@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "email": "ranjit@gmail.com",
+      "name": "ranjit",
+      "password": "RAnjit@123",
+      "id": 1
+    },
+    {
+      "email": "sanjit@gmail.com",
+      "name": "Sanjit Rautaray",
+      "password": "Sanjit@123",
+      "id": 5
+    },
+    {
+      "email": "jena@gmail.com",
+      "name": "jena jena",
+      "password": "Jena@123",
+      "id": 7
+    }
+  ]
+}
